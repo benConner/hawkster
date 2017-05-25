@@ -1,0 +1,26 @@
+{
+  "name": "hawkster",
+  "version": "1.0.0",
+  "description": "hawk and things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benConner/hawkster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benConner/hawkster/issues"
+  },
+  "homepage": "https://github.com/benConner/hawkster#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "bookshelf": "^0.10.3",
+    "express": "^4.15.3",
+    "knex": "^0.13.0",
+    "node": "0.0.0"
+  }
+}
